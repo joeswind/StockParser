@@ -1,6 +1,6 @@
 {
-    "python.pythonPath": "${workspaceFolder}\\PEnv\\Scripts\\python.exe",
+    "python.pythonPath": "C:\\Users\\Hank\\.virtualenvs\\PythonParser-8OUOiQrA\\Scripts\\python.exe",
     "python.autoComplete.extraPaths": [
-        "${workspaceFolder}\\PEnv\\Scripts\\python.exe"
+        "C:\\Users\\Hank\\.virtualenvs\\PythonParser-8OUOiQrA\\Scripts\\python.exe"
     ]
 }
